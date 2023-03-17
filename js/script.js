@@ -12,9 +12,11 @@ window.addEventListener("scroll", function(){
     }
 
 const sr  =  ScrollReveal({
-    distance: '50px',
+    distance: '70px',
     duration: 2500,
     reset:true
 });
 
-sr.reveal('.home-text',{delay:350, origin:'left'});
+sr.reveal('.home-text',{delay:340, origin:'left'});
+
+sr.reveal('.home-image',{delay:340, origin:'right'});
