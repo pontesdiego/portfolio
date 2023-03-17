@@ -195,6 +195,7 @@ footer{
 
 .btn:hover{
 	transform: scale(1.2);
+	background: #fff;
 }
 
 .services-itens{
