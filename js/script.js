@@ -20,3 +20,5 @@ const sr  =  ScrollReveal({
 sr.reveal('.home-text',{delay:340, origin:'left'});
 
 sr.reveal('.home-image',{delay:340, origin:'right'});
+
+sr.reveal('.portfolio-content',{delay:340, origin:'left'});
